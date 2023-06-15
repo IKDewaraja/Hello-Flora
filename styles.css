@@ -13,3 +13,15 @@ body p {
 .container-fluid .container .jumbotron {
     background-color: #E793CE;
 }
+.row .col-lg-4 .card.col-md-4.col-lg-12 {
+    background-color: #E9E88C;
+}
+.row .col-lg-6 .card.col-md-4.col-lg-12 {
+    background-color: #BEF183;
+}
+#accordion1 .card #headingOne1 {
+    background-color: #80F4F2;
+}
+.card #accordion2 .card {
+    background-color: #7EF6FB;
+}
